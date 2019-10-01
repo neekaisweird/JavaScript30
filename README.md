@@ -18,7 +18,7 @@ Day 13: Slide In on Scroll<br>
 Day 14: Object and Arrays - Reference VS Copy<br>
 Day 15: LocalStorage and Event Delegation<br>
 Day 16: CSS Text Shadow Mouse Move Effect<br>
-Day 17: Sorting Band Names without articles<br>
+Day 17: Sorting Band Names without Articles<br>
 Day 18: Tally String Times with Reduce<br>
 Day 19: Unreal Webcam Fun<br>
 Day 20: Native Speech Recognition<br>
