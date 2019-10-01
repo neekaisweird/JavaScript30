@@ -2,7 +2,7 @@
 
 <a href="https://javascript30.com/">30 Day Vanilla JS Coding Challenge by Wes Bos</a>
 
-Day 1: JavaScript Drum Kit<br>
+<a href="https://neekaisweird.github.io/day-1-drum-kit.html">Day 1: JavaScript Drum Kit</a><br>
 Day 2: CSS + JS Clock<br>
 Day 3: Playing with CSS Variables and JS<br>
 Day 4: Array Cardio Day 1<br>
