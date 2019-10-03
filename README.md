@@ -4,7 +4,7 @@
 
 <a href="https://neekaisweird.github.io/day-1-drum-kit.html">Day 1: JavaScript Drum Kit</a><br>
 <a href="https://neekaisweird.github.io/day-2-clock.html">Day 2: CSS + JS Clock</a><br>
-Day 3: Playing with CSS Variables and JS<br>
+<a href="https://neekaisweird.github.io/day-3-css-variables.html">Day 3: Playing with CSS Variables and JS</a><br>
 Day 4: Array Cardio Day 1<br>
 Day 5: Flex Panels Image Gallery<br>
 Day 6: Ajax Type Ahead<br>
