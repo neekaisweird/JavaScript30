@@ -8,7 +8,7 @@
 <a href="https://neekaisweird.github.io/day-4-array-cardio-1.html">Day 4: Array Cardio Day 1</a><br>
 <a href="https://neekaisweird.github.io/day-5-flex-panel-gallery.html">Day 5: Flex Panels Image Gallery</a><br>
 <a href="https://neekaisweird.github.io/day-6-ajax-type-ahead.html">Day 6: Ajax Type Ahead</a><br>
-Day 7: Array Cardio Day 2<br>
+<a href="https://neekaisweird.github.io/day-7-array-cardio-2.html">Day 7: Array Cardio Day 2</a><br>
 Day 8: Fun with HTML5 Canvas<br>
 Day 9: 14 Must Know Dev Tools Tricks<br>
 Day 10: Hold Shift to Check Multiple Checkboxes<br>
