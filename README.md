@@ -9,7 +9,7 @@
 <a href="https://neekaisweird.github.io/day-5-flex-panel-gallery.html">Day 5: Flex Panels Image Gallery</a><br>
 <a href="https://neekaisweird.github.io/day-6-ajax-type-ahead.html">Day 6: Ajax Type Ahead</a><br>
 <a href="https://neekaisweird.github.io/day-7-array-cardio-2.html">Day 7: Array Cardio Day 2</a><br>
-Day 8: Fun with HTML5 Canvas<br>
+<a href="https://neekaisweird.github.io/day-8-fun-with-canvas.html">Day 8: Fun with HTML5 Canvas</a><br>
 Day 9: 14 Must Know Dev Tools Tricks<br>
 Day 10: Hold Shift to Check Multiple Checkboxes<br>
 Day 11: Custom HTML5 Video Player<br>
