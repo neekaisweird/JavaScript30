@@ -11,7 +11,7 @@
 <a href="https://neekaisweird.github.io/day-7-array-cardio-2.html">Day 7: Array Cardio Day 2</a><br>
 <a href="https://neekaisweird.github.io/day-8-fun-with-canvas.html">Day 8: Fun with HTML5 Canvas</a><br>
 <a href="https://neekaisweird.github.io/day-9-dev-tools-tricks.html">Day 9: 14 Must Know Dev Tools Tricks</a><br>
-Day 10: Hold Shift to Check Multiple Checkboxes<br>
+<a href="https://neekaisweird.github.io/day-10-hold-shift-multiple-checkboxes.html">Day 10: Hold Shift to Check Multiple Checkboxes</a><br>
 Day 11: Custom HTML5 Video Player<br>
 Day 12: Key Sequence Detection (KONAMI CODE)<br>
 Day 13: Slide In on Scroll<br>
