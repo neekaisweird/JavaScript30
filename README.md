@@ -13,7 +13,7 @@
 <a href="https://neekaisweird.github.io/day-9-dev-tools-tricks.html">Day 9: 14 Must Know Dev Tools Tricks</a><br>
 <a href="https://neekaisweird.github.io/day-10-hold-shift-multiple-checkboxes.html">Day 10: Hold Shift to Check Multiple Checkboxes</a><br>
 <a href="https://neekaisweird.github.io/day-11-custom-video-player.html">Day 11: Custom HTML5 Video Player</a><br>
-Day 12: Key Sequence Detection (KONAMI CODE)<br>
+<a href="https://neekaisweird.github.io/day-12-key-sequence-detection">Day 12: Key Sequence Detection (KONAMI CODE)</a><br>
 Day 13: Slide In on Scroll<br>
 Day 14: Object and Arrays - Reference VS Copy<br>
 Day 15: LocalStorage and Event Delegation<br>
