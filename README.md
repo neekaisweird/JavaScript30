@@ -16,8 +16,8 @@
 <a href="https://neekaisweird.github.io/day-12-key-sequence-detection.html">Day 12: Key Sequence Detection (KONAMI CODE)</a><br>
 <a href="https://neekaisweird.github.io/day-13-slide-in-on-scroll.html">Day 13: Slide In on Scroll</a><br>
 <a href="https://neekaisweird.github.io/day-14-reference-vs-copy.html">Day 14: Object and Arrays - Reference VS Copy</a><br>
-Day 15: LocalStorage and Event Delegation<br>
-Day 16: CSS Text Shadow Mouse Move Effect<br>
+<a href="https://neekaisweird.github.io/day-15-localstorage-event-delegation.html">Day 15: LocalStorage and Event Delegation<br>
+Day 16: CSS Text Shadow Mouse Move Effect</a><br>
 Day 17: Sorting Band Names without Articles<br>
 Day 18: Tally String Times with Reduce<br>
 Day 19: Unreal Webcam Fun<br>
