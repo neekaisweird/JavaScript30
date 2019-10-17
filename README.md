@@ -18,7 +18,7 @@
 <a href="https://neekaisweird.github.io/day-14-reference-vs-copy.html">Day 14: Object and Arrays - Reference VS Copy</a><br>
 <a href="https://neekaisweird.github.io/day-15-localstorage-event-delegation.html">Day 15: LocalStorage and Event Delegation</a><br>
 <a href="https://neekaisweird.github.io/day-16-mouse-move-shadow.html">Day 16: CSS Text Shadow Mouse Move Effect</a><br>
-Day 17: Sorting Band Names without Articles<br>
+<a href="https://neekaisweird.github.io/day-17-sort-without-articles.html">Day 17: Sorting Band Names without Articles</a><br>
 Day 18: Tally String Times with Reduce<br>
 Day 19: Unreal Webcam Fun<br>
 Day 20: Native Speech Recognition<br>
