@@ -19,7 +19,7 @@
 <a href="https://neekaisweird.github.io/day-15-localstorage-event-delegation.html">Day 15: LocalStorage and Event Delegation</a><br>
 <a href="https://neekaisweird.github.io/day-16-mouse-move-shadow.html">Day 16: CSS Text Shadow Mouse Move Effect</a><br>
 <a href="https://neekaisweird.github.io/day-17-sort-without-articles.html">Day 17: Sorting Band Names without Articles</a><br>
-Day 18: Tally String Times with Reduce<br>
+<a href="https://neekaisweird.github.io/day-18-tally-times-with-reduce.html">Day 18: Tally String Times with Reduce</a><br>
 Day 19: Unreal Webcam Fun<br>
 Day 20: Native Speech Recognition<br>
 Day 21: Geolocation based Speedometer and Compass<br>
