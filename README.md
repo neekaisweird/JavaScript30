@@ -23,7 +23,7 @@
 <a href="https://neekaisweird.github.io/day-19-unreal-webcam-fun.html">Day 19: Unreal Webcam Fun</a><br>
 <a href="https://neekaisweird.github.io/day-20-native-speech-recognition.html">Day 20: Native Speech Recognition</a><br>
 <a href="https://neekaisweird.github.io/day-21-geolocation.html">Day 21: Geolocation based Speedometer and Compass</a><br>
-Day 22: Follow Along Links<br>
+<a href="https://neekaisweird.github.io/day-22-follow-along-links.html">Day 22: Follow Along Links</a><br>
 Day 23: Speed Synthesis<br>
 Day 24: Sticky Nav<br>
 Day 25: Event Capture, Propagation, Bubbling and Once<br>
