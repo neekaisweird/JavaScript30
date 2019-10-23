@@ -24,7 +24,7 @@
 <a href="https://neekaisweird.github.io/day-20-native-speech-recognition.html">Day 20: Native Speech Recognition</a><br>
 <a href="https://neekaisweird.github.io/day-21-geolocation.html">Day 21: Geolocation based Speedometer and Compass</a><br>
 <a href="https://neekaisweird.github.io/day-22-follow-along-links.html">Day 22: Follow Along Links</a><br>
-Day 23: Speed Synthesis<br>
+<a href="https://neekaisweird.github.io/day-23-speech-synthesis">Day 23: Speed Synthesis</a><br>
 Day 24: Sticky Nav<br>
 Day 25: Event Capture, Propagation, Bubbling and Once<br>
 Day 26: Stripe Follow Along Dropdown<br>
