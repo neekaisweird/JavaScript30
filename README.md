@@ -29,6 +29,6 @@
 <a href="https://neekaisweird.github.io/day-25-event-capture.html">Day 25: Event Capture, Propagation, Bubbling and Once</a><br>
 <a href="https://neekaisweird.github.io/day-26-stripe-follow-along-dropdown.html">Day 26: Stripe Follow Along Dropdown</a><br>
 <a href="https://neekaisweird.github.io/day-27-click-and-drag-to-scroll.html">Day 27: Click and Drag to Scroll</a><br>
-Day 28: Video Speed Controller UI<br>
+<a href="https://neekaisweird.github.io/day-28-video-speed-controller-ui.html">Day 28: Video Speed Controller UI</a><br>
 Day 29: Countdown Clock<br>
 Day 30: Whack A Mole Game<br>
